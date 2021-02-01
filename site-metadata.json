@@ -184,7 +184,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Podcast",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
