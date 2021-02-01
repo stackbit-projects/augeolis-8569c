@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: Image Grid
+    title: Les équipes les plus efficaces travaillent avec Augeolis
     subtitle: Grid Section Example
     align: center
     grid_items:
