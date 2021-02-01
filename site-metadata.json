@@ -78,7 +78,7 @@
         "secondary_nav_title": "Solutions",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Gestion de projets",
                 "url": "/blog/category/news",
                 "style": "link"
             },
