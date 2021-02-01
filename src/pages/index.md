@@ -22,6 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image: images/remarkable-spruce.png
   - type: grid_section
     title: Les équipes les plus efficaces travaillent avec Augeolis
     subtitle: ''
