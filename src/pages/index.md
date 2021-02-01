@@ -64,7 +64,7 @@ sections:
           ennuyeux. Maintenant, on peut passer plus de temps sur ce pour quoi on
           est vraiment doués."
         content: >
-          **Richard Brilliant **SVP & Directeur principal d’audit, Carnival
+          **Richard Brilliant** SVP & Directeur principal d’audit, Carnival
           Corporation & PLC
         actions:
           - label: Learn More
