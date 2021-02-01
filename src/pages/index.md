@@ -14,7 +14,6 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/new_hp_fr.png
     image_alt: Hero section placeholder image
     media_position: bottom
     media_width: sixty
