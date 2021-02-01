@@ -23,6 +23,7 @@ sections:
     background_color: none
     background_image: images/remarkable-spruce.png
     background_image_size: contain
+    image: images/bold/icon-1.svg
   - type: grid_section
     title: Les équipes les plus efficaces travaillent avec Augeolis
     subtitle: ''
