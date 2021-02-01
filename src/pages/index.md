@@ -253,7 +253,7 @@ sections:
         url: /features
         style: secondary
         icon_position: right
-    actions_position: right
+    actions_position: bottom
     actions_width: fourty
     align: left
     padding_top: large
