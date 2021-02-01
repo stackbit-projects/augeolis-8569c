@@ -21,7 +21,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: images/remarkable-spruce.png
     background_image_size: contain
     image: images/fabulous-oak.png
   - type: grid_section
