@@ -78,10 +78,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Collaborez sur un seul espace de travail partagé.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions:
           - label: Learn More
             url: /style-guide
