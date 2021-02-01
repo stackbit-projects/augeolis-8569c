@@ -24,7 +24,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Les équipes les plus efficaces travaillent avec Augeolis
-    subtitle: Grid Section Example
+    subtitle: ''
     align: center
     grid_items:
       - image: images/logo-1.svg
