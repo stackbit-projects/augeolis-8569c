@@ -17,7 +17,7 @@ sections:
     image: images/new_hp_fr.png
     image_alt: Hero section placeholder image
     media_position: bottom
-    media_width: fourty
+    media_width: sixty
     align: center
     padding_top: large
     padding_bottom: large
