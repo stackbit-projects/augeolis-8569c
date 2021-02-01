@@ -99,7 +99,9 @@ sections:
           entreprise nous permet de communiquer et collaborer où que nous
           soyons, sur terre comme sur mer."
       - title: Bénéficiez d’une vue à 360° sur tous vos projets.
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: >-
+          "Augeolis nous a donné la visibilité nécessaire pour mettre tout le
+          monde en phase et suivre les évolutions de tous nos projets."
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
