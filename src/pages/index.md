@@ -95,7 +95,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: >-
-          " Le fait d’avoir un même espace de travail virtuel pour notre
+          "Le fait d’avoir un même espace de travail virtuel pour notre
           entreprise nous permet de communiquer et collaborer où que nous
           soyons, sur terre comme sur mer."
       - title: Bénéficiez d’une vue à 360° sur tous vos projets.
