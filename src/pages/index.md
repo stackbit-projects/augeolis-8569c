@@ -98,10 +98,7 @@ sections:
         subtitle: >-
           "Augeolis nous a donné la visibilité nécessaire pour mettre tout le
           monde en phase et suivre les évolutions de tous nos projets."
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions:
           - label: Learn More
             url: /style-guide
