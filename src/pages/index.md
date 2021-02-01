@@ -63,10 +63,9 @@ sections:
           "Nous avons automatisé une grande partie de nos processus les plus
           ennuyeux. Maintenant, on peut passer plus de temps sur ce pour quoi on
           est vraiment doués."
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          **Richard Brilliant **SVP & Directeur principal d’audit, Carnival
+          Corporation & PLC
         actions:
           - label: Learn More
             url: /style-guide
