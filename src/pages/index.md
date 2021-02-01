@@ -73,13 +73,7 @@ sections:
         media_width: fifty
       - title: Collaborez sur un seul espace de travail partagé.
         content: "**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
