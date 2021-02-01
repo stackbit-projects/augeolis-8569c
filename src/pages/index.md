@@ -252,6 +252,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
+        icon_position: center
     actions_position: right
     actions_width: fourty
     align: left
