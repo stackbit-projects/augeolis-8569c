@@ -56,7 +56,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: ''
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: Mettez fin aux tâches manuelles rébarbatives.
         subtitle: >-
