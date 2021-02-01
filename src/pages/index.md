@@ -94,6 +94,10 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: >-
+          " Le fait d’avoir un même espace de travail virtuel pour notre
+          entreprise nous permet de communiquer et collaborer où que nous
+          soyons, sur terre comme sur mer."
       - title: Bénéficiez d’une vue à 360° sur tous vos projets.
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
