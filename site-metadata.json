@@ -97,7 +97,7 @@
         "tertiary_nav_title": "Ressources",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Centre d'assistance",
                 "url": "/terms-conditions",
                 "style": "link"
             },
