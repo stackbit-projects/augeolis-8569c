@@ -47,7 +47,7 @@ sections:
       - input_type: tel
         name: lorem-ipsum
         label: Nom de l'entreprise
-        default_value: ''
+        default_value: '+33'
         options: []
         is_required: false
         type: form_field
