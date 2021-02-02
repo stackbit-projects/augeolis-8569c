@@ -3,7 +3,11 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Contacter l’équipe commerciale
-    subtitle: The optional subtitle
+    subtitle: >-
+      Contactez-nous dès aujourd’hui pour savoir comment Augeolis peut aider
+      votre entreprise. Remplissez le formulaire ci-dessous et nos experts vous
+      conseilleront sur les meilleures solutions pour gérer vos flux de travail
+      et vos processus, même à distance.
     align: center
     padding_top: medium
     padding_bottom: medium
