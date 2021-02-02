@@ -35,7 +35,7 @@ sections:
     form_fields:
       - input_type: text
         name: Nom
-        label: Nom
+        label: ''
         default_value: Your name
         is_required: true
       - input_type: text
