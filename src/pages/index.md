@@ -25,6 +25,7 @@ sections:
         url: /features
         style: primary
         has_icon: true
+        icon: github
       - label: CRM et ventes
         url: lorem-ipsum
         style: primary
