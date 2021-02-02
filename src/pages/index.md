@@ -173,7 +173,7 @@ sections:
         align: left
         type: feature
         image: images/bold/feature-1.svg
-      - title: '4'
+      - title: Bénéficiez d’une vue à 360° sur tous vos projets.
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
