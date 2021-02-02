@@ -46,7 +46,7 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
+                "url": "/style-guide",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
