@@ -145,7 +145,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Nous contacter",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
