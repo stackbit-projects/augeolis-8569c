@@ -31,7 +31,7 @@ sections:
     background_image_size: auto
     background_image_position: center bottom
     background_image_repeat: no-repeat
-    image: images/about-5.jpg
+    image: images/Capture d’écran 2021-02-02 à 08.46.11.png
   - type: grid_section
     title: Les équipes les plus efficaces travaillent avec Augeolis
     subtitle: ''
