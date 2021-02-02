@@ -135,7 +135,9 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - title: ''
+  - title: >-
+      Intégrez les outils que vous utilisez déjà  et améliorez votre
+      productivité
     subtitle: ''
     content: ''
     actions: []
