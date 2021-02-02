@@ -132,17 +132,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Collaborez sur un seul espace de travail partagé.
-        content: "**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
-        actions: []
-        image: images/classic/feature-2.png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
-        subtitle: >-
-          "Le fait d’avoir un même espace de travail virtuel pour notre
-          entreprise nous permet de communiquer et collaborer où que nous
-          soyons, sur terre comme sur mer."
     feature_padding_vert: large
     align: center
     background_color: none
