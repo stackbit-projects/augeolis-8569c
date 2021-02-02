@@ -23,7 +23,7 @@ sections:
         style: secondary
     image_alt: Hero section placeholder image
     media_position: bottom
-    media_width: sixty
+    media_width: fourty
     align: center
     padding_top: large
     padding_bottom: large
