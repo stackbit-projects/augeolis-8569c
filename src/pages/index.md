@@ -24,6 +24,7 @@ sections:
       - label: Marketing
         url: /features
         style: primary
+        has_icon: true
       - label: CRM et ventes
         url: lorem-ipsum
         style: primary
