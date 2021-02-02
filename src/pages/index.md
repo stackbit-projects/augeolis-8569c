@@ -374,7 +374,7 @@ sections:
   - title: Test
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: '1'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
