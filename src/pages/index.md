@@ -128,7 +128,7 @@ sections:
           **Richard Brilliant** SVP & Directeur principal d’audit, Carnival
           Corporation & PLC
         actions: []
-        image: images/classic/feature-1.png
+        image: images/feature-2.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
