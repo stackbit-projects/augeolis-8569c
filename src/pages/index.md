@@ -165,6 +165,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: images/881563d6444b370fa4ceea0c3183bb4c.gif
   - title: ''
     subtitle: ''
     features:
