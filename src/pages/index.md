@@ -123,7 +123,7 @@ sections:
           "Nous avons automatisé une grande partie de nos processus les plus
           ennuyeux. Maintenant, on peut passer plus de temps sur ce pour quoi on
           est vraiment doués."
-        content: "![](https://augeolis-8569c.netlify.app/images/2.png)****\n\n**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
+        content: "![](https://augeolis-8569c.netlify.app/images/2.png)\n\n**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image: images/feature-2.png
         image_alt: Feature 1 placeholder image
