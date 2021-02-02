@@ -160,7 +160,10 @@ sections:
     subtitle: ''
     features:
       - title: Collaborez sur un seul espace de travail partagé.
-        subtitle: lorem-ipsum
+        subtitle: >-
+          "Le fait d’avoir un même espace de travail virtuel pour notre
+          entreprise nous permet de communiquer et collaborer où que nous
+          soyons, sur terre comme sur mer."
         content: >-
           ## Lorem ipsum
 
