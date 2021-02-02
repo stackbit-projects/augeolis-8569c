@@ -143,7 +143,7 @@ sections:
         subtitle: >-
           "Avec monday.com, on peut travailler à notre manière, selon nos
           besoins, tout en assurant la synchronisation de nos équipes et leur
-          autonomie.
+          autonomie."
         content: >-
           ## Lorem ipsum
 
