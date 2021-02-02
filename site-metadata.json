@@ -60,7 +60,8 @@
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "anncmnt_id": "new-features",
+        "logo": "images/Fichier 13.png"
     },
     "footer": {
         "logo": "images/bold/post-3.png",
