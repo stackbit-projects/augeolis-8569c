@@ -53,7 +53,7 @@ sections:
           - Other
       - input_type: textarea
         name: message
-        label: Message
+        label: Comment notre équipe de vente peut vous aider ?
         default_value: Your message
       - input_type: checkbox
         name: consent
