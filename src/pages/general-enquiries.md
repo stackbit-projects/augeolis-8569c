@@ -47,7 +47,7 @@ sections:
       - input_type: tel
         name: lorem-ipsum
         label: Numéro de téléphone
-        default_value: '01  '
+        default_value: 01  52 52 51 14
         options: []
         is_required: false
         type: form_field
