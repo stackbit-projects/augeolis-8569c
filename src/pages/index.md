@@ -372,7 +372,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: Test
-    subtitle: lorem-ipsum
+    subtitle: ''
     features:
       - title: '3'
         subtitle: lorem-ipsum
