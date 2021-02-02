@@ -112,7 +112,8 @@ sections:
         content: "![](https://augeolis-8569c.netlify.app/images/2.png)\n\n**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: ''
+        video_embed_html: >-
+          https://dapulse-res.cloudinary.com/video/upload/q_auto,f_auto,cs_copy/remote_mondaycom_static/video/video-library/languages/french/_Export_Project_Plan_fr.mp4
         media_position: left
         media_width: fifty
         align: left
