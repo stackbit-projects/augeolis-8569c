@@ -18,6 +18,7 @@ sections:
       - label: Gestion de projets
         url: /pricing
         style: primary
+        has_icon: true
       - label: Marketing
         url: /features
         style: primary
