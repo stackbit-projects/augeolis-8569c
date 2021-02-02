@@ -56,7 +56,7 @@ sections:
         label: Taille de la société
         default_value: Veuillez sélectionner
         options:
-          - Error on the site
+          - 1-9
           - Sponsorship
           - Other
       - input_type: textarea
