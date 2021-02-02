@@ -39,6 +39,11 @@ sections:
         default_value: ''
         is_required: true
         options: []
+      - input_type: email
+        name: email
+        label: E-mail
+        default_value: Your email address
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: Nom de l'entreprise
@@ -46,11 +51,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: email
-        name: email
-        label: E-mail
-        default_value: Your email address
-        is_required: true
       - input_type: select
         name: subject
         label: Subject
