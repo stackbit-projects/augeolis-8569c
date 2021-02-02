@@ -371,7 +371,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: Test
+  - title: ''
     subtitle: ''
     features:
       - title: '3'
