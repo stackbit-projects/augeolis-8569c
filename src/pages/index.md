@@ -25,6 +25,7 @@ sections:
     image: images/fabulous-oak.png
     background_image_position: center bottom
     background_image_repeat: no-repeat
+    background_image: images/about-5.jpg
   - type: grid_section
     title: Les équipes les plus efficaces travaillent avec Augeolis
     subtitle: ''
