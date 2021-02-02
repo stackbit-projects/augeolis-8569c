@@ -57,7 +57,7 @@ sections:
         default_value: Veuillez sélectionner
         options:
           - 1-9
-          - Sponsorship
+          - 10-1
           - Other
       - input_type: textarea
         name: message
