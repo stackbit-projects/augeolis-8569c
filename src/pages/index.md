@@ -214,7 +214,7 @@ sections:
     content: |
       Essai gratuit de 14 jours / Aucun moyen de paiement nécessaire
     actions:
-      - label: Learn More
+      - label: Commencer
         url: /features
         style: secondary
         icon_position: right
