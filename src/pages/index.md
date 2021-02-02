@@ -20,7 +20,7 @@ sections:
         style: primary
       - label: Marketing
         url: /features
-        style: secondary
+        style: primary
       - label: CRM et ventes
         url: lorem-ipsum
         style: primary
