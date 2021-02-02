@@ -53,7 +53,7 @@ sections:
         type: form_field
       - input_type: select
         name: subject
-        label: Subject
+        label: Taille de la société*
         default_value: Please select
         options:
           - Error on the site
