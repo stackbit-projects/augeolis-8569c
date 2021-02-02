@@ -396,6 +396,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/bold/feature-1.svg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
