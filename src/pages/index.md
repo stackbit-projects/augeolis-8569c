@@ -164,7 +164,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/bold/feature-2.svg
+        image: images/classic/hero.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
