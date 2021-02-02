@@ -395,7 +395,7 @@ sections:
         align: left
         type: feature
         image: images/bold/feature-1.svg
-      - title: lorem-ipsum
+      - title: '4'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
