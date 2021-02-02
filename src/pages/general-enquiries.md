@@ -57,7 +57,7 @@ sections:
         default_value: Veuillez sélectionner
         options:
           - 1-9
-          - 10-1
+          - 10-19
           - Other
       - input_type: textarea
         name: message
