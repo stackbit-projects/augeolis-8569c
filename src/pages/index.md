@@ -143,17 +143,8 @@ sections:
         subtitle: >-
           "Avec Augeolis, on peut travailler à notre manière, selon nos besoins,
           tout en assurant la synchronisation de nos équipes et leur autonomie."
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
