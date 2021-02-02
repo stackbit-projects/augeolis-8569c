@@ -58,7 +58,7 @@ sections:
         options:
           - 1-9
           - 10-19
-          - 20-
+          - 20-50
       - input_type: textarea
         name: message
         label: Comment notre équipe de vente peut vous aider ?
