@@ -174,7 +174,7 @@ sections:
         subtitle: >-
           "Augeolis nous a donné la visibilité nécessaire pour mettre tout le
           monde en phase et suivre les évolutions de tous nos projets."
-        content: "![](https://augeolis-8569c.netlify.app/images/2.png)****\n\n**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
+        content: "![](https://augeolis-8569c.netlify.app/images/2.png)\n\n**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
