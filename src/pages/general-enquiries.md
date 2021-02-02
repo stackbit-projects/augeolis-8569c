@@ -42,7 +42,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Nom de l'entreprise
-        default_value: lorem-ipsum
+        default_value: ''
         options: []
         is_required: false
         type: form_field
