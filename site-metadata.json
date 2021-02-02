@@ -69,7 +69,7 @@
         "primary_nav_title": "Produit",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "Produit",
                 "url": "/about",
                 "style": "link"
             },
