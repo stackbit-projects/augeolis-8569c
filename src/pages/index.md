@@ -18,7 +18,7 @@ sections:
       - label: Gestion de projets
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Marketing
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
