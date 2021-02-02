@@ -19,7 +19,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
-        icon: linkedin
+        icon: github
         icon_position: left
       - label: Marketing
         url: /features
