@@ -90,7 +90,7 @@
                 "type": "action"
             },
             {
-                "label": "Prix",
+                "label": "Partenaires",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
