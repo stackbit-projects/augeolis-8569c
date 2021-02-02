@@ -151,7 +151,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/bold/feature-1.svg
+        image: images/feature-3.png
       - title: Bénéficiez d’une vue à 360° sur tous vos projets.
         subtitle: >-
           "Augeolis nous a donné la visibilité nécessaire pour mettre tout le
