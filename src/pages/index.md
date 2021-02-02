@@ -164,17 +164,7 @@ sections:
           "Le fait d’avoir un même espace de travail virtuel pour notre
           entreprise nous permet de communiquer et collaborer où que nous
           soyons, sur terre comme sur mer."
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
