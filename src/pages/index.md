@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Travaillez de la manière qui vous convient
-    subtitle: Optional hero section subtitle
+    subtitle: Découvrez pourquoi plus de 1 000 équipes ont choisi la méthode Augeolis.
     content: >+
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
