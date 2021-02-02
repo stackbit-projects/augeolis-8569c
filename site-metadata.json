@@ -263,7 +263,7 @@
                 "type": "action"
             },
             {
-                "label": "Voir plus de solutions",
+                "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
@@ -274,7 +274,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Voir plus de solutions",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
