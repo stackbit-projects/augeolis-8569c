@@ -44,7 +44,7 @@ sections:
         label: E-mail
         default_value: ''
         is_required: true
-      - input_type: text
+      - input_type: tel
         name: lorem-ipsum
         label: Nom de l'entreprise
         default_value: ''
