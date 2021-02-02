@@ -20,6 +20,7 @@ sections:
         style: primary
         has_icon: true
         icon: linkedin
+        icon_position: right
       - label: Marketing
         url: /features
         style: primary
