@@ -211,10 +211,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Essayez Augeolis pour vos équipes
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Essai gratuit de 14 jours / Aucun moyen de paiement nécessaire
     actions:
       - label: Learn More
         url: /features
