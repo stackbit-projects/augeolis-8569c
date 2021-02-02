@@ -19,6 +19,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
+        icon: linkedin
       - label: Marketing
         url: /features
         style: primary
