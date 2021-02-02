@@ -161,7 +161,7 @@ sections:
           "Le fait d’avoir un même espace de travail virtuel pour notre
           entreprise nous permet de communiquer et collaborer où que nous
           soyons, sur terre comme sur mer."
-        content: "![](https://augeolis-8569c.netlify.app/images/2.png)****\n\n**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
+        content: "![](https://augeolis-8569c.netlify.app/images/2.png)\n\n**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
