@@ -15,7 +15,7 @@ sections:
 
 
     actions:
-      - label: Try Free
+      - label: Gestion de projets
         url: /pricing
         style: primary
       - label: Learn More
