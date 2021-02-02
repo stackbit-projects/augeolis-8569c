@@ -109,7 +109,7 @@ sections:
         subtitle: >-
           "Avec Augeolis, on peut travailler à notre manière, selon nos besoins,
           tout en assurant la synchronisation de nos équipes et leur autonomie."
-        content: "![](https://augeolis-8569c.netlify.app/images/2.png)**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
+        content: "![](https://augeolis-8569c.netlify.app/images/2.png)****\n\n**Richard Brilliant**\_\n\nSVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
