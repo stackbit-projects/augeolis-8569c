@@ -100,7 +100,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: false
-    background_color: primary
+    background_color: none
   - type: features_section
     title: ''
     subtitle: ''
