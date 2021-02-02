@@ -90,7 +90,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Prix",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
