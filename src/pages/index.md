@@ -105,7 +105,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: lorem-ipsum
+      - title: Profitez des avantages d’une plateforme qui s’adapte à vos besoins.
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
