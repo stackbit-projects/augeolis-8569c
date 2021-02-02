@@ -143,16 +143,6 @@ sections:
           "Le fait d’avoir un même espace de travail virtuel pour notre
           entreprise nous permet de communiquer et collaborer où que nous
           soyons, sur terre comme sur mer."
-      - title: Bénéficiez d’une vue à 360° sur tous vos projets.
-        subtitle: >-
-          "Augeolis nous a donné la visibilité nécessaire pour mettre tout le
-          monde en phase et suivre les évolutions de tous nos projets."
-        content: "**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
-        actions: []
-        image: images/classic/feature-3.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: none
