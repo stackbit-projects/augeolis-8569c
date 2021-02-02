@@ -54,7 +54,7 @@ sections:
       - input_type: select
         name: subject
         label: Taille de la société
-        default_value: Please select
+        default_value: Pleasveuillez sélectionner
         options:
           - Error on the site
           - Sponsorship
