@@ -105,6 +105,20 @@ sections:
     title: ''
     subtitle: ''
     features:
+      - title: Profitez des avantages d’une plateforme qui s’adapte à vos besoins.
+        subtitle: >-
+          "Avec Augeolis, on peut travailler à notre manière, selon nos besoins,
+          tout en assurant la synchronisation de nos équipes et leur autonomie."
+        content: |
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: ''
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/about-3.jpg
       - title: Mettez fin aux tâches manuelles rébarbatives.
         subtitle: >-
           "Nous avons automatisé une grande partie de nos processus les plus
@@ -139,20 +153,6 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: Profitez des avantages d’une plateforme qui s’adapte à vos besoins.
-        subtitle: >-
-          "Avec Augeolis, on peut travailler à notre manière, selon nos besoins,
-          tout en assurant la synchronisation de nos équipes et leur autonomie."
-        content: |
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: ''
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/about-3.jpg
     feature_padding_vert: large
     align: center
     background_color: none
