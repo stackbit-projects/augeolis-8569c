@@ -118,7 +118,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/bold/feature-3.svg
+        image: images/feature-1.png
       - title: Mettez fin aux tâches manuelles rébarbatives.
         subtitle: >-
           "Nous avons automatisé une grande partie de nos processus les plus
