@@ -109,8 +109,7 @@ sections:
         subtitle: >-
           "Avec Augeolis, on peut travailler à notre manière, selon nos besoins,
           tout en assurant la synchronisation de nos équipes et leur autonomie."
-        content: |
-          **Marius le Grand **Founder
+        content: "**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
