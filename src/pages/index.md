@@ -174,7 +174,9 @@ sections:
         type: feature
         image: images/bold/feature-1.svg
       - title: Bénéficiez d’une vue à 360° sur tous vos projets.
-        subtitle: lorem-ipsum
+        subtitle: >-
+          "Augeolis nous a donné la visibilité nécessaire pour mettre tout le
+          monde en phase et suivre les évolutions de tous nos projets."
         content: >-
           ## Lorem ipsum
 
