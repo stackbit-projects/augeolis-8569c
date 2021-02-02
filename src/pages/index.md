@@ -110,7 +110,7 @@ sections:
           "Avec Augeolis, on peut travailler à notre manière, selon nos besoins,
           tout en assurant la synchronisation de nos équipes et leur autonomie."
         content: |
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**
+          **Marius le Grand **Founder
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
