@@ -38,8 +38,7 @@ sections:
         label: Nom
         default_value: ''
         is_required: true
-        options:
-          - lorem-ipsum
+        options: []
       - input_type: text
         name: lorem-ipsum
         label: Nom de l'entreprise
