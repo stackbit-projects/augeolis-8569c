@@ -106,7 +106,10 @@ sections:
     subtitle: ''
     features:
       - title: Profitez des avantages d’une plateforme qui s’adapte à vos besoins.
-        subtitle: lorem-ipsum
+        subtitle: >-
+          "Avec monday.com, on peut travailler à notre manière, selon nos
+          besoins, tout en assurant la synchronisation de nos équipes et leur
+          autonomie."
         content: >-
           ## Lorem ipsum
 
