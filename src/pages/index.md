@@ -159,7 +159,7 @@ sections:
   - title: ''
     subtitle: ''
     features:
-      - title: '3'
+      - title: Collaborez sur un seul espace de travail partagé.
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
