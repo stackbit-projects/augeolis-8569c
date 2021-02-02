@@ -113,7 +113,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <iframe width="100%" height="100%"
+          <iframe width="516" height="100%"
           src="https://dapulse-res.cloudinary.com/video/upload/q_auto,f_auto,cs_copy/remote_mondaycom_static/video/video-library/languages/french/_Export_Project_Plan_fr.mp4"
           frameborder="0" allow="accelerometer; autoplay; clipboard-write;
           encrypted-media; gyroscope; picture-in-picture"
