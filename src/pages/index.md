@@ -109,7 +109,7 @@ sections:
         subtitle: >-
           "Avec Augeolis, on peut travailler à notre manière, selon nos besoins,
           tout en assurant la synchronisation de nos équipes et leur autonomie."
-        content: "![](/about-1.jpg)**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
+        content: "![](https://images.squarespace-cdn.com/content/v1/5dd6a674354a76685e154239/1580482711507-AAUIPZ4KENQICINDZCLA/ke17ZwdGBToddI8pDm48kE3AryPMrV91iHf7xtR0ERVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzV5RG4IJtbbcDOjjS_PLB62ultkB8uSoE-NgfOYSTZTFg\\_-k6wfvCO5IafkGmOY3U/Portrait-Diana-Gochgarian.png?format=500w)**Richard Brilliant**\_SVP & Directeur principal d’audit, Carnival Corporation & PLC\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
