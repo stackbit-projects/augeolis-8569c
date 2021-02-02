@@ -113,7 +113,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          <iframe width="560" height="315"
+          <iframe width="560" height="560"
           src="https://www.youtube.com/embed/1Al-nuR1iAU?controls=0"
           frameborder="0" allow="accelerometer; autoplay; clipboard-write;
           encrypted-media; gyroscope; picture-in-picture"
