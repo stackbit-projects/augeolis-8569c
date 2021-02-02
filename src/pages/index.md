@@ -392,7 +392,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       ## Lorem ipsum
 
