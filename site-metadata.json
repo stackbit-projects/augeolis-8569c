@@ -112,7 +112,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Intégrations",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
