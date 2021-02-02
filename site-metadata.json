@@ -40,11 +40,6 @@
                 "style": "link"
             },
             {
-                "label": "Commencer >",
-                "url": "/pricing",
-                "style": "primary"
-            },
-            {
                 "label": "Se connecter",
                 "url": "/style-guide",
                 "style": "link",
@@ -54,6 +49,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Commencer >",
+                "url": "/pricing",
+                "style": "primary"
             }
         ],
         "has_anncmnt": false,
