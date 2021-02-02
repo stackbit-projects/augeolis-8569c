@@ -61,7 +61,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     background_image_size: auto
     background_image_position: center bottom
     background_image_repeat: no-repeat
